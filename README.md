@@ -35,3 +35,8 @@ These two days I learned:
 	This example uses a script located in a specified folder on the current web site:
 		<script src="/js/myScript1.js"></script>
 	This example links to a script located in the same folder as the current page:	
+-------------------------------------------------------
+11-08-19 to 12-08-19
+---------------------
+I have started Learning Flutter not actually started learning flutter but learning how to install flutter
+it was little complex to install it but after fixing some issues i was able to install it successfully.
